@@ -10,8 +10,8 @@
 
 we are not responsible for anything you do with this wordlist.txt 
 
-most passwords here are commaon ones just for learning purpose
-some of them are stolen passwords that i stole in 2020
+most passwords here are common ones just for learning purpose
+and some of them are stolen passwords that i stole in 2020
 
 Updates to list coming soon!
 
