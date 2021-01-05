@@ -10,7 +10,6 @@
 
 we are not responsible for anything you do with this wordlist.txt 
 
-most passwords here are common ones just for learning purpose
 most passwords here are common ones just for educational purposes only
 and some of them are stolen passwords that i stole in 2020
 
