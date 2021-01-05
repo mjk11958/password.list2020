@@ -6,14 +6,18 @@
 
 #MJK11958
 
-a list of commaon passwords used by people in fb,instagram,netflix,amazon and more
-i tried some passwords to check if they work and some did not going to say where i tried..
-there is 184 words (passwords) in this file
-do whatever you want with this txt. file
+273 used passwords from all around the world! 
+
+we are not responsible for anything you do with this wordlist.txt 
+
+most passwords here are commaon ones just for learning purpose
+some of them are stolen passwords that i stole in 2020
 
 Updates to list coming soon!
 
 Contact:
 https://t.me/MJK11958
+
 ONLY PRIVTE CHATS!
+
 More projects to come, Enjoy and please dont do anything evil.
