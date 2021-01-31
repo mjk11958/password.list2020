@@ -46,7 +46,6 @@ qwerty
 qwerty123456
 123456qwerty
 notapassword
-                      
 police
 bruce
 ninja
